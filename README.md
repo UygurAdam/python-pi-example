@@ -1,2 +1,2 @@
 # python-pi-example
-Misal: Moudle named not foun 'distutils.util' 
+Misal: Moudle named not found 'distutils.util' 
